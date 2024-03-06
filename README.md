@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&label=Profile%20views&color=0e75b6&style=flat" alt="anshumansinha3301" /> </p>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumansinha3301&theme=dark)](https://github.com/anshumansinha3301)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumansinha3301" alt="anshumansinha3301" /></a> </p>
 
