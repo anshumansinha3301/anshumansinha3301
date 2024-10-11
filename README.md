@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
-<h3 align="center">A Data Science Explorer | SDE @Safetitude Consulting | Amity University Patna | Open Source Contributer </h3>
+<h3 align="center">A Data Science Explorer | SDE @Safetitude Consulting | Amity University Patna | 
+  Open Source Contributer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&label=Profile%20views&color=0e75b6&style=flat" alt="anshumansinha3301" /> </p>
 
