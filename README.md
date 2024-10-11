@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
 <h3 align="center">Decision Scientist | SDE @Safetitude Consulting | Amity University Patna |  </h3>
-#### Some Stuffs:
+Some Stuffs about me:
 
 - 👨🏽‍💻 I’m currently Doing projects based on Fintech and Consulting which involve modular approach of Software Engineering.
   
 - 🌱 I’m currently learning about Data Science and Software Engineering Based Project
-- 
+  
 - 📝 Mostly I work on Data Science Projects Based on Python (Numpy,Matplotlib,Scikit etc, Jupyter Notebook)
-- 
-- 💬 Ask me about anything, I am happy to help
-
-
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&label=Profile%20views&color=0e75b6&style=flat" alt="anshumansinha3301" /> </p>
 
 
