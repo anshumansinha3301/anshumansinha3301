@@ -13,5 +13,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumansinha3301&" alt="anshumansinha3301" /></p>
 
-(https://holopin.me/anshumansinha3301)](https://holopin.io/@anshumansinha3301)
- 
+[![An image of @anshumansinha3301's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumansinha3301)](https://holopin.io/@anshumansinha3301)
