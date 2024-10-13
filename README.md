@@ -2,6 +2,8 @@
 <h3 align="center">Decision Scientist | SDE @Safetitude Consulting | Amity University Patna |  </h3>
 Some Stuffs about me:
 
+- 🎓 Pursuing Bachelor of Computer Applications at Amity University Patna.
+- 
 - 👨🏽‍💻 I’m currently Doing projects based on Fintech and Consulting which involve modular approach of Software Engineering.
   
 - 🌱 I’m currently learning about Data Science and Software Engineering Based Project.
