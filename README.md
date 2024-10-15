@@ -18,7 +18,8 @@ Some Stuffs about me:
 
 - 📄 Secured internships in the domain of Software Development, Data Science and Web Development.
 
-- 🚀 Building Bitfusion Dynamics Research (Group of Developers and Strategy Consultants). 
+- 🚀 Building Bitfusion Dynamics Research (Group of Developers and Strategy Consultants).
+
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&label=Profile%20views&color=0e75b6&style=flat" alt="anshumansinha3301" /> </p>
 
@@ -34,3 +35,5 @@ Some Stuffs about me:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumansinha3301&show_icons=true&locale=en" alt="anshumansinha3301" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumansinha3301&" alt="anshumansinha3301" /></p>
+
+![](https://github-contributor-stats.vercel.app/api?username=Vanshikapandey30&limit=5&theme=dark&combine_all_yearly_contributions=true)
