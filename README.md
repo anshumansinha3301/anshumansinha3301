@@ -36,4 +36,3 @@ Some Stuffs about me:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumansinha3301&" alt="anshumansinha3301" /></p>
 
-![](https://github-contributor-stats.vercel.app/api?username=anshumansinha3301&limit=5&theme=dark&combine_all_yearly_contributions=true)
