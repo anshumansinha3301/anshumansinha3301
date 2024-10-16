@@ -36,3 +36,5 @@ Some Stuffs about me:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumansinha3301&" alt="anshumansinha3301" /></p>
 
+<a href="https://app.daily.dev/anshumansinha3301"><img src="https://api.daily.dev/devcards/v2/X0qFp1zluRZexZJW09gY2.png?r=9d5&type=wide" width="652" alt="Anshuman Sinha's Dev Card"/></a>
+
