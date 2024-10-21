@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
-<h3 align="center">Decision Scientist | SDE @Safetitude Consulting | Amity University Patna |  </h3>
+<h3 align="center">Decision Scientist | SDE Intern @Safetitude Consulting | Amity University Patna </h3>
 Some Stuffs about me:
 
 - 🎓 Pursuing Bachelor of Computer Applications at Amity University Patna.
