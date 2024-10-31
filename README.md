@@ -37,3 +37,5 @@ Some Stuffs about me:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumansinha3301&" alt="anshumansinha3301" /></p>
 
 <a href="https://app.daily.dev/anshumansinha3301"><img src="https://api.daily.dev/devcards/v2/X0qFp1zluRZexZJW09gY2.png?type=wide&r=ucg" width="652" alt="Anshuman Sinha's Dev Card"/></a>
+
+[![An image of @anshumansinha3301's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumansinha3301)](https://holopin.io/@anshumansinha3301)
