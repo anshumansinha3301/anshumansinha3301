@@ -51,6 +51,12 @@ Some Stuffs about me:
   <a href="https://www.linkedin.com/posts/anshuman-sinha-b32041204_im-happy-to-share-that-ive-obtained-a-new-activity-7259560895775727616-Yn1M?utm_source=share&utm_medium=member_android" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Logo" />
 </a>
+
+<a href="https://raw.githubusercontent.com/anshumansinha3301/linearsearchcpp/blob/main/hacktoberfest0.png">
+    <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/hacktoberfest0.png" width="100px" height="100px" alt="Postman Logo" />
+</a>
+
+  
 </div>
 
     
