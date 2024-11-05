@@ -3,24 +3,12 @@
 Some Stuffs about me:
 
 - 🎓 Pursuing Bachelor of Computer Applications at Amity University Patna.
-  
 - 👨🏽‍💻 I’m currently Doing projects based on Fintech and Consulting which involve modular approach of Software Engineering.
-  
 - 🌱 I’m currently learning about Data Science and Software Engineering Based Project.
-  
 - 📝 Mostly I work on Data Science Projects Based on Python (Numpy,Matplotlib,Scikit etc, Jupyter Notebook).
-
-- 💻 Mentored 100+ developers for Data Structures and Algorithms and Decision Science.
-
 - 🧑‍💻 Worked on 50+ projects in the domain of Data Science,Fintech and Operations Research.
-
 - 🧑‍💻 Lead Volunteer at Google Developer Student Clubs and Google Developer Groups
 
-- 📄 Secured internships in the domain of Software Development, Data Science and Web Development.
-
-- 🚀 Building Bitfusion Dynamics Research (Group of Developers and Strategy Consultants).
-
-  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&label=Profile%20views&color=0e75b6&style=flat" alt="anshumansinha3301" /> </p>
 
 
