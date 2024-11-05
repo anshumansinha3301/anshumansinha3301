@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
 <h3 align="center">Decision Scientist | SDE @Safetitude Consulting | Amity University Patna </h3>
 Some Stuffs about me:
-
-- 🎓 Pursuing Bachelor of Computer Applications at Amity University Patna.
-- 👨🏽‍💻 I’m currently Doing projects based on Fintech and Consulting which involve modular approach of Software Engineering.
-- 🌱 I’m currently learning about Data Science and Software Engineering Based Project.
-- 📝 Mostly I work on Data Science Projects Based on Python (Numpy,Matplotlib,Scikit etc, Jupyter Notebook).
-- 🧑‍💻 Worked on 50+ projects in the domain of Data Science,Fintech and Operations Research.
-- 🧑‍💻 Lead Volunteer at Google Developer Student Clubs and Google Developer Groups
-
   <div align="left">
   <a href="https://www.linkedin.com/in/anshuman-sinha-b32041204/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
