@@ -27,7 +27,7 @@ Some Stuffs about me:
   </a>
    </a>
   <a href="https://api.badgr.io/public/assertions/wcLAr7A4T7-loELcoQWWww?identity__email=blockfaze%40gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="postman logo"  />
   </a>
 </div>
 
@@ -53,7 +53,7 @@ Some Stuffs about me:
 <h2 id="badge-title">GSSOC(24) Badges 🪶</h2> 
 <div
    <a href="https://api.badgr.io/public/assertions/wcLAr7A4T7-loELcoQWWww?identity__email=blockfaze%40gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="postman logo"  />
   </a>
 </div>
 
