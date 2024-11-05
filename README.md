@@ -73,7 +73,7 @@ Some Stuffs about me:
 </a>
 
 <a href="https://www.holopin.io/userbadge/cm27t3jf6178730dmfsu9prdqr">
-    <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/mattermost_hactoberfest.png" width="100px" height="100px" alt="Postman Logo" />
+    <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/mattermost_hacktoberfest.png" width="100px" height="100px" alt="Postman Logo" />
 </a>
 
 <a href="https://www.holopin.io/@anshumansinha3301#">
