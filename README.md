@@ -26,8 +26,6 @@ Some Stuffs about me:
 
 <a href="https://app.daily.dev/anshumansinha3301"><img src="https://api.daily.dev/devcards/v2/X0qFp1zluRZexZJW09gY2.png?type=wide&r=ucg" width="652" alt="Anshuman Sinha's Dev Card"/></a>
 
-[![An image of @anshumansinha3301's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumansinha3301)](https://holopin.io/@anshumansinha3301)
-
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
@@ -36,5 +34,4 @@ Some Stuffs about me:
 </div>
 </details>'
 
-<img src="https://raw.githubusercontent.com/anshumansinha3301/anshumansinha3301/output/snake.svg" alt="Snake animation" />
 
