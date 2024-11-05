@@ -52,7 +52,7 @@ Some Stuffs about me:
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Logo" />
 </a>
 
-<a href="https://raw.githubusercontent.com/anshumansinha3301/linearsearchcpp/blob/main/hacktoberfest0.png">
+<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm24lyn4n123940cl6rsbx7hdr">
     <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/hacktoberfest0.png" width="100px" height="100px" alt="Postman Logo" />
 </a>
 
