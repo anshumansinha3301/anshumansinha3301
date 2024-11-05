@@ -48,9 +48,9 @@ Some Stuffs about me:
 
 <h2 id="badge-title">GSSOC(24) Badges 🪶</h2> 
 <div
-   <a href="https://www.linkedin.com/posts/anshuman-sinha-b32041204_im-happy-to-share-that-ive-obtained-a-new-activity-7259560895775727616-Yn1M?utm_source=share&utm_medium=member_android" target="_blank">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="postman logo"  />
-  </a>
+  <a href="https://www.linkedin.com/posts/anshuman-sinha-b32041204_im-happy-to-share-that-ive-obtained-a-new-activity-7259560895775727616-Yn1M?utm_source=share&utm_medium=member_android" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Logo" />
+</a>
 </div>
 
     
