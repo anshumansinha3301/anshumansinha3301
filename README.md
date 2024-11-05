@@ -21,12 +21,10 @@ Some Stuffs about me:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&label=Profile%20views&color=0e75b6&style=flat" alt="anshumansinha3301" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumansinha3301" alt="anshumansinha3301" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumansinha3301" alt="anshumansinha3301" />
 <a href="https://www.instagram.com/anshumansinha3301/profilecard/?igsh=NXRvcW83bTZ1dzZ1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-
-  
 </p>
 
 
