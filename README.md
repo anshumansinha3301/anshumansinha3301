@@ -56,6 +56,30 @@ Some Stuffs about me:
     <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/hacktoberfest0.png" width="100px" height="100px" alt="Postman Logo" />
 </a>
 
+<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2ezu9mw07670ck0ozbcdgyv">
+    <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/hacktoberfest1.png" width="100px" height="100px" alt="Postman Logo" />
+</a>
+
+<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2ezup2a301320cl16m04d1ve">
+    <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/hacktoberfest2.png" width="100px" height="100px" alt="Postman Logo" />
+</a>
+
+<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2ezv3ij121430cl9q1qd9xbi">
+    <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/hacktoberfest3.png" width="100px" height="100px" alt="Postman Logo" />
+</a>
+
+<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2ezvf03322860cmk3hzd5ebq">
+    <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/hacktoberfest4.png" width="100px" height="100px" alt="Postman Logo" />
+</a>
+
+<a href="https://www.holopin.io/userbadge/cm27t3jf6178730dmfsu9prdqr">
+    <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/mattermost_hactoberfest.png" width="100px" height="100px" alt="Postman Logo" />
+</a>
+
+<a href="https://www.holopin.io/@anshumansinha3301#">
+    <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/holopin.png" width="100px" height="100px" alt="Postman Logo" />
+</a>
+
   
 </div>
 
