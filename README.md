@@ -50,5 +50,12 @@ Some Stuffs about me:
 
 <a href="https://app.daily.dev/anshumansinha3301"><img src="https://api.daily.dev/devcards/v2/X0qFp1zluRZexZJW09gY2.png?type=wide&r=ucg" width="652" alt="Anshuman Sinha's Dev Card"/></a>
 
+<h2 id="badge-title">GSSOC(24) Badges 🪶</h2> 
+<div
+   <a href="https://api.badgr.io/public/assertions/wcLAr7A4T7-loELcoQWWww?identity__email=blockfaze%40gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
+    
 
