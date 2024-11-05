@@ -25,10 +25,6 @@ Some Stuffs about me:
   <a href="https://www.instagram.com/anshumansinha3301/profilecard/?igsh=NXRvcW83bTZ1dzZ1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-   </a>
-  <a href="https://api.badgr.io/public/assertions/wcLAr7A4T7-loELcoQWWww?identity__email=blockfaze%40gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="postman logo"  />
-  </a>
 </div>
 
 ###
