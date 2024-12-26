@@ -13,7 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumansinha3301&show_icons=true&locale=en" alt="anshumansinha3301" /></p>
 
-<a href="https://app.daily.dev/anshumansinha3301"><img src="https://api.daily.dev/devcards/v2/X0qFp1zluRZexZJW09gY2.png?type=wide&r=ucg" width="652" alt="Anshuman Sinha's Dev Card"/></a>
 
 <h2 id="badge-title">Open Source Contributions (GSSOC(24), Hacktoberfest2024) Badges 🪶</h2> 
 <div
