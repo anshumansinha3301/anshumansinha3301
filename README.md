@@ -2,19 +2,15 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
 <h3 align="center">Decision Scientist | SDE @Safetitude Consulting | Amity University Patna </h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&label=Profile%20views&color=0e75b6&style=flat" alt="anshumansinha3301" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumansinha3301" alt="anshumansinha3301" /></p>
 
-
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=anshumansinha3301-ma&theme=darkhub" alt="anshumansinha3301" /></a> </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshumansinha3301&show_icons=true&locale=en&layout=compact" alt="anshumansinha3301" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumansinha3301&show_icons=true&locale=en" alt="anshumansinha3301" /></p>
-
 
 <div
   <a href="https://www.linkedin.com/posts/anshuman-sinha-b32041204_im-happy-to-share-that-ive-obtained-a-new-activity-7259560895775727616-Yn1M?utm_source=share&utm_medium=member_android" target="_blank" rel="noopener noreferrer">
@@ -48,6 +44,19 @@
 <a href="https://drive.google.com/file/d/1u2DLr2xsGHZyu1WYJtl9w66fZJLAy--e/view?usp=drive_link">
     <img src="https://github.com/anshumansinha3301/linearsearchcpp/blob/main/mlh.png" width="100px" height="100px" alt="Postman Logo" />
 </a>
+
+# 📊 GitHub Stats:
+
+![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) <br/>
+<a href="https://github.com/Hemu21">
+![](https://github-readme-stats.vercel.app/api?username=anshumansinha3301&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansinha3301&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anshumansinha3301&theme=blue-green&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshumansinha3301&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshumansinha3301&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshumansinha3301&theme=blue_green&utcOffset=8)
+<br/>
+
 
   
 </div>
