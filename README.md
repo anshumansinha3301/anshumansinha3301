@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
 <h3 align="center">Decision Scientist | SDE @Safetitude Consulting | Amity University Patna </h3>
 
-# 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true) <br/>
 <a href="https://github.com/anshumansinha3301">
 ![](https://github-readme-stats.vercel.app/api?username=anshumansinha3301&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
