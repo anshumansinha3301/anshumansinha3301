@@ -57,7 +57,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshumansinha3301&theme=blue_green&utcOffset=8)
 
 <br/>
-## 🏆 GitHub Trophies
+
+# 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=anshumansinha3301&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
