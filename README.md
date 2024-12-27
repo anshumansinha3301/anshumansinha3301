@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumansinha3301&show_icons=true&locale=en" alt="anshumansinha3301" /></p>
 
 
-<h2 id="badge-title">Open Source Contributions (GSSOC(24), Hacktoberfest2024) Badges 🪶</h2> 
+<h2 id="badge-title">Open Source Contributions </h2> 
 <div
   <a href="https://www.linkedin.com/posts/anshuman-sinha-b32041204_im-happy-to-share-that-ive-obtained-a-new-activity-7259560895775727616-Yn1M?utm_source=share&utm_medium=member_android" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Logo" />
