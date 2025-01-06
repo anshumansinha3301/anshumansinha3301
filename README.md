@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
-<h2 align="center">Decision Scientist | SDE @Safetitude Consulting | Amity University Patna </h2>
+<h2 align="center">Decision Scientist | SDE @Xyphor Advisors | Amity University Patna </h2>
 
 ![](https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true) <br/>
 <a href="https://github.com/anshumansinha3301">
