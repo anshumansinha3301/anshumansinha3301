@@ -2,16 +2,10 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
 <h2 align="center">Decision Scientist | SDE @Xyphor Advisors | Amity University Patna </h2>
 
-Absolutely! Here’s the updated **README.md** for you, including the **Xyphor Advisors** website link:
-
 ---
 
 # 👋 Welcome
-
-## 🚀 About Me
-
 I'm **Anshuman Sinha**, a passionate **Data Science** and **Frontend Developer** with a strong foundation in **Data Structures and Algorithms** and **System Design**.
-
 As the **Founder** of **bitfusion**, a dynamic technical community of developers, and **Xyphor Advisors**, a consulting company that helps clients with **business strategy**, **consulting**, **legal advisory**, **market research**, and **data research**, I thrive on creating impactful solutions and empowering others through knowledge sharing.
 Check out **Xyphor Advisors** 👉 [xyphoradvisors.site](https://xyphoradvisors.site) Previously, I interned at **Safetitude Consulting LLP**, gaining valuable industry experience.
 
