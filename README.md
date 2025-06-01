@@ -6,7 +6,7 @@ I'm **Anshuman Sinha**, a passionate **Data Science** and **Frontend Developer**
 
 As the **Founder** of **bitfusion**, a dynamic technical community of developers, and **Xyphor Advisors**, a consulting company that helps clients with **business strategy**, **consulting**, **legal advisory**, **market research**, and **data research**, I thrive on creating impactful solutions and empowering others through knowledge sharing. Previously, I interned at **Safetitude Consulting LLP**, gaining valuable industry experience.
 
-Check out **Xyphor Advisors** 👉 [xyphoradvisors.site](https://xyphoradvisors.site) 
+Check out **Xyphor Advisors** [xyphoradvisors.site](https://xyphoradvisors.site) 
 
 ## 🏆 Achievements
 
