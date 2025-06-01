@@ -30,8 +30,6 @@ Check out [xyphoradvisors.site](https://xyphoradvisors.site)
 
 ---
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
 ![](https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true) <br/>
 <a href="https://github.com/anshumansinha3301">
 ![](https://github-readme-stats.vercel.app/api?username=anshumansinha3301&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
