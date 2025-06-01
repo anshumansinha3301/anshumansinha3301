@@ -2,14 +2,21 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
 <h2 align="center">Decision Scientist | SDE @Xyphor Advisors | Amity University Patna </h2>
 
----
-
-# 👋 Welcome
 I'm **Anshuman Sinha**, a passionate **Data Science** and **Frontend Developer** with a strong foundation in **Data Structures and Algorithms** and **System Design**.
 
 As the **Founder** of **bitfusion**, a dynamic technical community of developers, and **Xyphor Advisors**, a consulting company that helps clients with **business strategy**, **consulting**, **legal advisory**, **market research**, and **data research**, I thrive on creating impactful solutions and empowering others through knowledge sharing. Previously, I interned at **Safetitude Consulting LLP**, gaining valuable industry experience.
 
 Check out **Xyphor Advisors** 👉 [xyphoradvisors.site](https://xyphoradvisors.site) 
+
+## 🏆 Achievements
+
+* 🥇 **LeetCode Top 4.2%** Global
+* 🥇 **Former Rank 1** at **GeeksforGeeks Institute** (Amity University Patna)
+* 🛠️ **Open Source Developer** at **Major League Hacking (MLH)**
+* 🌱 **Hacktoberfest 2024 Contributor**
+* 🌟 **GSSoC 2024 Contributor**
+* 🌐 **Contributor at Digital Ocean**
+* 🥈 **Top 0.5% (Sensei Rank)** at **Coding Ninjas SQL**
 
 ## 🛠️ Tech Stack
 
