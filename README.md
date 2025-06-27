@@ -11,6 +11,7 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 * 🥇 **LeetCode Top 4.2%** Global
 * 🥇 **Former Rank 1** at **GeeksforGeeks Institute** (Amity University Patna)
 * 🛠️ **Open Source Developer** at **Major League Hacking (MLH)**
+* 🏅 Successfully qualified and submitted solution for the **International Computer Science Competition (ICSC) 2025**
 * 🌱 **Hacktoberfest 2024 Contributor**
 * 🌟 **GSSoC 2024 Contributor**
 * 🌐 **Contributor at Digital Ocean**
