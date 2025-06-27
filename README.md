@@ -16,6 +16,8 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 * 🌟 **GSSoC 2024 Open Source Contributor**
 * 🌐 **Contributor at Digital Ocean**
 * 🥈 **Top 0.5% (Sensei Rank)** at **Coding Ninjas SQL**
+* 🏅 **5 Star Coder at Hackerank**
+* 🏅 **ICPC Kanpur Regional Hackathon Contendor**
 
 ## 🛠️ Tech Stack
 
