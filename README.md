@@ -21,9 +21,10 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript, Bootstrap
-* **Database:** MySQL
-* **Data Science:** Jupyter Notebook
+* **Frontend:** HTML, CSS, JavaScript, Bootstrap, React,
+* **Backend:** Node Js, Express J
+* **Database:** MySQL, MongoDB, 
+* **Data Science:** Jupyter Notebook, Ananconda, 
 
   * **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, YFinance, and many more
 * **Other Tools:** GitHub, Vercel, Netlify, VS Code
