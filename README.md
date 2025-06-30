@@ -22,7 +22,7 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript, Bootstrap, React,
-* **Backend:** Node Js, Express J
+* **Backend:** Node Js, Express Js
 * **Database:** MySQL, MongoDB, 
 * **Data Science:** Jupyter Notebook, Ananconda, 
 
