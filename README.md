@@ -95,6 +95,81 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 
 - 🏅 **ICPC Kanpur Regional Hackathon — Contender**  
   Competed as a regional qualifier in the ICPC Kanpur Hackathon, showcasing strong teamwork, algorithmic acumen, and rapid software prototyping in a high-pressure environment.
+---
+## 🚀 Featured Projects
+
+---
+
+### 🩺 [Health Analyser App](https://healthanalyser.streamlit.app/)
+Crafted an interactive web application for comprehensive health analysis and reporting. Users input key health metrics to receive instant, personalized assessments via advanced data visualization and machine learning.
+
+**Tech Stack:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="32" alt="Streamlit" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32" alt="Matplotlib"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="32" alt="Seaborn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="32" alt="scikit-learn"/>
+
+---
+
+### 💼 [Xyphor Advisors – Consulting Website](https://xyphoradvisors.netlify.app/)
+Developed a dynamic and responsive corporate website for Xyphor Advisors, enabling seamless client interaction, service display, and lead generation for a modern consulting firm.
+
+**Tech Stack:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" alt="HTML5"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32" alt="Bootstrap"/>
+
+---
+
+### ⛏️ [Stone Forge – Mining Operations Platform](https://stoneforge.netlify.app/)
+Built a robust website tailored to mining sector clients, presenting operational services and company information through a streamlined, mobile-friendly interface.
+
+**Tech Stack:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32" alt="Bootstrap"/>
+
+---
+
+### 📊 [Portfolio Management & Business Health Analysis Platform](https://anshumanproject.streamlit.app/)
+Designed and implemented a platform empowering users to manage their investment portfolios and analyze business health using sophisticated analytics and visual dashboards.
+
+**Tech Stack:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="32" alt="Streamlit"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="32" alt="Seaborn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="32" alt="scikit-learn"/>
+
+---
+
+### 🧠 [MNIST Neural Network Project](https://drive.google.com/file/d/1kIzUT7PtVLsH-9D9Bz_o6Nyc7Se8tw59/view)
+Built a modular neural network to accurately classify handwritten digits from the MNIST dataset. Focused on deep learning principles, visualization, and clear interpretation of results.
+
+**Tech Stack:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="32" alt="Jupyter Notebook"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32" alt="Matplotlib"/>
+
+---
+
+### 🏦 [Market Research Project: Indian Banking Sector](https://drive.google.com/file/d/1PCwrRgXH4BTLOEy-TTY_bCTMhm1D3n1_/view)
+Executed a data-driven market research initiative to analyze trends, performance, and growth drivers of the Indian banking sector, delivering actionable insights via machine learning and data visualization.
+
+**Tech Stack:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32" alt="Matplotlib"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="32" alt="Seaborn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="32" alt="scikit-learn"/>
+---
 
 ## 🛠️ Tech Stack
 
