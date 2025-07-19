@@ -109,7 +109,6 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 
 ---
 
-[![An image of @anshumansinha3301's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumansinha3301)](https://holopin.io/@anshumansinha3301)
 ![](https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true) <br/>
 <a href="https://github.com/anshumansinha3301">
 ![](https://github-readme-stats.vercel.app/api?username=anshumansinha3301&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
@@ -118,6 +117,7 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshumansinha3301&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshumansinha3301&theme=blue_green)
 ![](https://github-profile-trophy.vercel.app/?username=anshumansinha3301&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+[![An image of @anshumansinha3301's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumansinha3301)](https://holopin.io/@anshumansinha3301)
 
 
   
