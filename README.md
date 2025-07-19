@@ -70,7 +70,7 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 |-----------------------------------|---------------------------|--------------|--------------------------------------------------------|------------------------------|
 | Bachelor of Computer Applications | Amity University, Patna   | 2023–2026    | Computer Applications                                  | Top 5% of Batch              |
 | Class 12 (CBSE)                   | DAV Public School         | 2022–2023    | Science (Medical Science, Information Practices, Fine Arts) | Rank 6/55 (Science Batch)    |
-| Class 10 (CBSE)                   | DAV Public School         | 2020–2021    | General                                                | Top 5% of Batch              |
+| Class 10 (CBSE)                   | DAV Public School         | 2020–2021    | General, Maths Standard                                                | Top 5% of Batch              |
 
 ---
 
