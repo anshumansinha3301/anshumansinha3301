@@ -107,17 +107,6 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 * **Other Tools:** GitHub, Vercel, Netlify, VS Code
 * **Programming Languages:** Python, Java
 
-<!-- Holopin Badges Showcase -->
-<p align="center">
-  <img src="https://holopin.me/cm24n999734790cl5s9b2j4n5" width="85" alt="Early Bird Pegasaurus"/>
-  <img src="https://holopin.me/cm24lyn4n123940cl6rsbx7hdr" width="85" alt="Hacktoberfest 2024: Registered"/>
-  <img src="https://holopin.me/cm2ezu9mw07670ck0ozbcdgyv" width="85" alt="Hacktoberfest 2024: Level 1"/>
-  <img src="https://holopin.me/cm2ezup2a301320cl16m04d1ve" width="85" alt="Hacktoberfest 2024: Badge 4"/>
-  <img src="https://holopin.me/cm2ezv3ij121430cl9q1qd9xbi" width="85" alt="Hacktoberfest 2024: Badge 5"/>
-  <img src="https://holopin.me/cm2ezvf03322860cmk3hzd5ebq" width="85" alt="Hacktoberfest 2024: Badge 6"/>
-  <img src="https://holopin.me/cm27t3jf6178730dmfsu9prdqr" width="85" alt="Badge 7"/>
-</p>
-
 
 ---
 
