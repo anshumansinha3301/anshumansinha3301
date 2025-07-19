@@ -107,6 +107,7 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 * **Other Tools:** GitHub, Vercel, Netlify, VS Code
 * **Programming Languages:** Python, Java
 
+[![An image of @anshumansinha3301's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumansinha3301)](https://holopin.io/@anshumansinha3301)
 
 ---
 
