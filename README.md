@@ -8,6 +8,18 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 
 ### 💼 Professional Work Experience
 
+**🛡️ Founder & CEO — Bitfusion Dynamics Research**  
+*🗓️ May 2024 – Present 
+
+- Established and lead a vibrant technical community of **developers** and **strategy consultants**, driving **cross-disciplinary research** at the intersection of computer science and business innovation.
+- Architected and supervised **cutting-edge projects** in areas such as machine learning, data analytics, and enterprise software, applying advanced **Python**, **C++**, and **Java** solutions.
+- Implemented and optimized **data-driven models** using robust libraries including **NumPy**, **Pandas**, and **Matplotlib**, delivering actionable insights for complex business and technical challenges.
+- Championed a **collaborative, open-source ethos** by overseeing development workflows on **GitHub** and mentoring contributors in *best practices* for transparent code review, documentation, and project lifecycle management.
+- Orchestrated the design and deployment of **dynamic, user-focused web interfaces** leveraging **HTML**, **CSS**, and **JavaScript**, ensuring high usability and rapid prototyping within research initiatives.
+- Fostered a culture of continuous **learning** and **innovation**, organizing technical seminars, hackathons, and strategic workshops across diverse technology domains.
+
+🔧 **Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python](https://img.shields.io/badge/C++-00599C?logo=cplusplus](https://img.shields.io/badge/Java-007396?logo=javaHub](https://img.shields.io/badge/GitHub-181717?logoPy](https://img.shields.io/badge/NumPy-013243?logo=nandas](https://img.shields.io/badge/Pandas-150458?logoplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColorimg.shields.io/badge/HTML5-E34F26?logo=html5&logoColorimg.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=whiteimg.shields.io/badge/JavaScript-F7DF1E?logo=javascript
 - **🛡️ Software Development Engineer Intern — Safetitude Consulting LLP**  
   *🗓️ Jun 2024 – Aug 2024 | 🌍 On-Site Internship*  
   - Designed, implemented, and rigorously tested advanced financial algorithms in Java for sophisticated enterprise fintech solutions, delivering noticeable improvements in computational speed and accuracy.
