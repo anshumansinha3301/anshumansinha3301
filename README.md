@@ -97,9 +97,6 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
   Competed as a regional qualifier in the ICPC Kanpur Hackathon, showcasing strong teamwork, algorithmic acumen, and rapid software prototyping in a high-pressure environment.
 ---
 ## 🚀 Featured Projects
-
----
-
 ### 🩺 [Health Analyser App](https://healthanalyser.streamlit.app/)
 Crafted an interactive web application for comprehensive health analysis and reporting. Users input key health metrics to receive instant, personalized assessments via advanced data visualization and machine learning.
 
