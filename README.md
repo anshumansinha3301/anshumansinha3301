@@ -107,6 +107,30 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 * **Other Tools:** GitHub, Vercel, Netlify, VS Code
 * **Programming Languages:** Python, Java
 
+## 📜 Certifications
+
+- **🏅 Postman API Fundamentals Student Expert**  
+  *Issued by Postman*  
+  Acquired foundational expertise in designing, developing, and testing APIs using Postman. Validated ability to work with RESTful APIs and employ industry best practices for API collaboration and documentation.
+  <br>
+  <a href="https://badgr.com/public/assertions/wcLAr7A4T7-loELcoQWWww">
+    <img src="https://api.badgr.io/public/assertions/wcLAr7A4T7-loELcoQWWww/image" width="120" alt="Postman API Fundamentals Student Expert Badge"/>
+  </a>
+  <br>
+  [View Credential](https://badgr.com/public/assertions/wcLAr7A4T7-loELcoQWWww)
+
+---
+
+- **🎓 Programming in Java**  
+  *Issued by NPTEL & IIT Kharagpur*  
+  Successfully completed a rigorous academic course on Java programming fundamentals through NPTEL, in collaboration with IIT Kharagpur. Demonstrated proficiency in object-oriented programming, core Java concepts, algorithms, and problem-solving techniques applicable to industry use cases.
+  <br>
+  <a href="https://drive.google.com/file/d/1eAw3tDJtNfuSEX_2QUyt6yPV4_sFZksY/view">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg?raw=true" width="90" alt="Programming in Java Certificate"/>
+  </a>
+  <br>
+  [View Certificate](https://drive.google.com/file/d/1eAw3tDJtNfuSEX_2QUyt6yPV4_sFZksY/view)
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true) <br/>
