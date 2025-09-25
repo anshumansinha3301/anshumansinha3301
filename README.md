@@ -78,34 +78,15 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 ## 🏆 Achievements
 
 - 🥇 **Top 4.2% Globally — LeetCode**  
-  Achieved placement in the top 4.2% of global coders on LeetCode, demonstrating advanced proficiency in data structures, algorithms, and critical problem-solving under competitive time constraints.
-
 - 🥇 **Former Rank 1, GeeksforGeeks Institute — Amity University Patna**  
-  Secured the #1 leaderboard position within the institute by actively solving complex computer science challenges and mentoring peers in programming concepts.
-
 - 🛠️ **Open Source Developer — Major League Hacking (MLH)**  
-  Contributed innovative features and solutions to open-source projects under the renowned MLH program, collaborating with an international developer community to ship production-ready code.
-
 - 🏅 **International Computer Science Competition (ICSC) 2025 — Qualified Participant**  
-  Successfully qualified for and represented my region in the 2025 ICSC, a prestigious contest recognizing analytical skills, algorithmic expertise, and computer science knowledge at the international level.
-
 - 🌱 **Hacktoberfest 2024 — Open Source Contributor**  
-  Proactively contributed to global open-source initiatives during Hacktoberfest, building and enhancing software solutions with a focus on long-term project sustainability.
-
 - 🌟 **Girlscript Summer of Code (GSSoC) 2024 — Contributor**  
-  Selected as an open-source contributor for GSSoC 2024, developing solutions for real-world problems while engaging with mentors and collaborators across the open-source ecosystem.
-
 - 🌐 **Contributor — DigitalOcean Community**  
-  Provided technical insights and meaningful contributions within the DigitalOcean developer community, authoring guides and resolving issues to assist thousands of fellow developers.
-
 - 🥈 **Top 0.5% (Sensei Rank) — Coding Ninjas SQL**  
-  Earned Sensei Rank (top 0.5%) in SQL on Coding Ninjas, reflecting mastery in database management, query optimization, and effective information retrieval techniques.
-
 - 🏅 **5 Star Coder — HackerRank**  
-  Attained 5-Star designation on HackerRank by consistently solving high-complexity challenges across domains such as algorithms, data structures, and databases.
-
 - 🏅 **ICPC Kanpur Regional Hackathon — Contender**  
-  Competed as a regional qualifier in the ICPC Kanpur Hackathon, showcasing strong teamwork, algorithmic acumen, and rapid software prototyping in a high-pressure environment.
 ---
 ## 🚀 Featured Projects
 ### 🩺 [Health Analyser App](https://healthanalyser.streamlit.app/)
