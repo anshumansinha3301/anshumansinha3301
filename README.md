@@ -11,18 +11,59 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 **🛡️ Founder & CEO — Bitfusion Dynamics Research**  
 *🗓️ May 2024 – Present 
 
+- Established and lead a vibrant technical community of **developers** and **strategy consultants**, driving **cross-disciplinary research** at the intersection of computer science and business innovation.
+- Architected and supervised **cutting-edge projects** in areas such as machine learning, data analytics, and enterprise software, applying advanced **Python**, **C++**, and **Java** solutions.
+- Implemented and optimized **data-driven models** using robust libraries including **NumPy**, **Pandas**, and **Matplotlib**, delivering actionable insights for complex business and technical challenges.
+
+---
+
 - **🛡️ Software Development Engineer Intern — Safetitude Consulting LLP**  
   *🗓️ Jun 2024 – Aug 2024 | 🌍 On-Site Internship*  
+  - Designed, implemented, and rigorously tested advanced financial algorithms in Java for sophisticated enterprise fintech solutions, delivering noticeable improvements in computational speed and accuracy.
+  - Leveraged robust data structures and algorithms (DSA) to create scalable modules, directly optimizing system throughput and resource allocation.
+  - Collaborated in diverse cross-functional teams using industry-standard version control practices (GitHub & GitLab), facilitating transparent peer review cycles and rapid iteration.
+  - 🔧 **Stack:** ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+    ![DSA](https://img.shields.io/badge/DSA-FFA500?logo=codewars&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+    ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+
+---
 
 - **🌐 Open Source Contributor — Hacktoberfest 2024**  
   *🗓️ Oct 2024 – Nov 2024 | ⚡ Global Virtual*  
+  - Spearheaded the development of major components for an open-source financial application using Python, architecting robust backend logic and seamless DBMS integrations.
+  - Engineered intuitive, cross-platform desktop user interfaces using Tkinter, enhancing accessibility for a global user base.
+  - Managed data modeling and workflow automation to enable efficient information retrieval and reporting, contributing to a smoother financial data lifecycle.
+  - 🔧 **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+    ![Tkinter](https://img.shields.io/badge/Tkinter-FFAA00?logo=python&logoColor=white)
+    ![DBMS](https://img.shields.io/badge/DBMS-003366?logo=sqlite&logoColor=white)
+
+---
 
 - **🤖 Open Source Developer — Major League Hacking 2024**  
-  *🗓️ Oct 2024 – Nov 2024 | 🌐 Global*
+  *🗓️ Oct 2024 – Nov 2024 | 🌐 Global*  
+  - Conceived and delivered next-generation trading algorithms in Rust and Python, focusing on reliability, low-latency data processing, and real-time financial insights.
+  - Applied advanced data science methodologies—statistical modeling, feature engineering, and predictive analytics—to drive trading performance and actionable intelligence.
+  - Designed highly concurrent pipelines to process, analyze, and visualize large-scale market data, ensuring robust accuracy under demanding workloads.
+  - 🔧 **Stack:** ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+    ![Data Science](https://img.shields.io/badge/Data_Science-FFA726?logo=googlescholar&logoColor=white)
+
+---
 
 - **📊 Data Science Intern — Xyphor Advisors**  
   *🗓️ Jun 2025 – Jul 2025 | 📍 On-Site Internship 
-
+  - Developed a high-impact, consulting-focused analytics platform empowering clients to visualize, interpret, and act on complex business data via interactive dashboards and AI-powered recommendations.
+  - Employed Streamlit and Tkinter to design engaging user experiences supporting custom analytics, exploratory data analysis, and real-time reporting.
+  - Led end-to-end integration with MySQL for scalable data storage, while utilizing Matplotlib for compelling insights visualization and presentation to stakeholders.
+  - 🔧 **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+    ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+    ![Tkinter](https://img.shields.io/badge/Tkinter-FFAA00?logo=python&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+    ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+    ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ---
 ## 🎓 Education
 
