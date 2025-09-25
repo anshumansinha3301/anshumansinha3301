@@ -15,43 +15,21 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 
 - **🛡️ Software Development Engineer Intern — Safetitude Consulting LLP**  
   *🗓️ Jun 2024 – Aug 2024 | 🌍 On-Site Internship*  
-
-  - 🔧 **Stack:** ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-    ![DSA](https://img.shields.io/badge/DSA-FFA500?logo=codewars&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-    ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
-
 ---
 
 - **🌐 Open Source Contributor — Hacktoberfest 2024**  
   *🗓️ Oct 2024 – Nov 2024 | ⚡ Global Virtual*  
-
-  - 🔧 **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-    ![Tkinter](https://img.shields.io/badge/Tkinter-FFAA00?logo=python&logoColor=white)
-    ![DBMS](https://img.shields.io/badge/DBMS-003366?logo=sqlite&logoColor=white)
 
 ---
 
 - **🤖 Open Source Developer — Major League Hacking 2024**  
   *🗓️ Oct 2024 – Nov 2024 | 🌐 Global*
   
-  - 🔧 **Stack:** ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-    ![Data Science](https://img.shields.io/badge/Data_Science-FFA726?logo=googlescholar&logoColor=white)
-
 ---
 
 - **📊 Data Science Intern — Xyphor Advisors**  
   *🗓️ Jun 2025 – Jul 2025 | 📍 On-Site Internship 
 
-  - 🔧 **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-    ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-    ![Tkinter](https://img.shields.io/badge/Tkinter-FFAA00?logo=python&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-    ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-    ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-    ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ---
 ## 🎓 Education
 
