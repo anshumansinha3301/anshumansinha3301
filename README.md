@@ -11,21 +11,14 @@ As the **Founder** of **bitfusion**, a dynamic technical community of developers
 **🛡️ Founder & CEO — Bitfusion Dynamics Research**  
 *🗓️ May 2024 – Present 
 
----
-
 - **🛡️ Software Development Engineer Intern — Safetitude Consulting LLP**  
   *🗓️ Jun 2024 – Aug 2024 | 🌍 On-Site Internship*  
----
 
 - **🌐 Open Source Contributor — Hacktoberfest 2024**  
   *🗓️ Oct 2024 – Nov 2024 | ⚡ Global Virtual*  
 
----
-
 - **🤖 Open Source Developer — Major League Hacking 2024**  
   *🗓️ Oct 2024 – Nov 2024 | 🌐 Global*
-  
----
 
 - **📊 Data Science Intern — Xyphor Advisors**  
   *🗓️ Jun 2025 – Jul 2025 | 📍 On-Site Internship 
