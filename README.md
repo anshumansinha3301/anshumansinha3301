@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
-<h2 align="center">Decision Scientist | SDE @Xyphor Advisors | Amity University Patna </h2>
+<h2 align="center">Decision Scientist | Xyphor Advisors | Amity University Patna </h2>
 
 I'm **Anshuman Sinha**, a passionate **Data Science** and **Frontend Developer** with a strong foundation in **Data Structures and Algorithms** and **System Design**.
 
