@@ -184,6 +184,28 @@ Executed a data-driven market research initiative to analyze trends, performance
 <div align="center" style="margin-top: 20px;">
         <img src="https://github-profile-trophy.vercel.app/?username=anshumansinha3301&theme=aura&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Profile Trophies" />
     </div>
+
+    
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=anshumansinha3301&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Suryansh's%20GitHub%20Stats" alt="github stats" />
+      </td>
+      <td align="center">
+        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anshumansinha3301&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anshumansinha3301&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=B347FF&fire=B347FF&currStreakLabel=B347FF&sideNums=B347FF&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumansinha3301&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
     
 ![](https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true) <br/>
 <a href="https://github.com/anshumansinha3301">
