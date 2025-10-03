@@ -203,9 +203,6 @@ Executed a data-driven market research initiative to analyze trends, performance
   <img src="https://nirzak-streak-stats.vercel.app/?user=anshumansinha3301&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=B347FF&fire=B347FF&currStreakLabel=B347FF&sideNums=B347FF&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9" alt="streak stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumansinha3301&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
     
 ![](https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true) <br/>
 <a href="https://github.com/anshumansinha3301">
