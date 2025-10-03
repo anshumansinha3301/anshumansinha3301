@@ -181,7 +181,10 @@ Executed a data-driven market research initiative to analyze trends, performance
   [View Certificate](https://drive.google.com/file/d/1eAw3tDJtNfuSEX_2QUyt6yPV4_sFZksY/view)
 
 ---
-
+<div align="center" style="margin-top: 20px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=smirk-dev&theme=aura&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Profile Trophies" />
+    </div>
+    
 ![](https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true) <br/>
 <a href="https://github.com/anshumansinha3301">
 ![](https://github-readme-stats.vercel.app/api?username=anshumansinha3301&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
