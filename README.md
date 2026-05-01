@@ -1,26 +1,46 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
-<h2 align="center">Decision Scientist | Xyphor Advisors | Amity University Patna</h2>
+
+<h3 align="center">
+Decision Scientist | Quant Researcher | Founder | Competitive Programmer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=B347FF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Frontend+Developer;Open+Source+Contributor;Machine+Learning+Explorer;Problem+Solver+%7C+Tech+Community+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2200&pause=100&color=B347FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Quant+Researcher;Founder;Competitive+Programmer;Open+Source+Contributor;Machine+Learning+Engineer;Frontend+Developer" />
 </p>
 
----
-
-## 🚀 About Me
-
-I'm **Anshuman Sinha**, a passionate **Data Science** and **Frontend Developer** with strong expertise in **Data Structures & Algorithms**, **Machine Learning**, and **System Design**.
-
-As the **Founder of Bitfusion**, a dynamic technical community, and a **Decision Scientist at Xyphor Advisors**, I work on impactful solutions in analytics, consulting, business intelligence, and software engineering.
-
-I enjoy building scalable applications, solving real-world business problems using AI & analytics, and contributing to the developer ecosystem through open-source and collaborative research.
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true" />
+</p>
 
 <details>
-<summary><h2>💼 Professional Work Experience</h2></summary>
+<summary><b>🚀 About Me</b></summary>
+
+<br>
+
+I'm **Anshuman Sinha**, a passionate **Data Science** and **Frontend Developer** with expertise in:
+
+- 📊 Data Science & Machine Learning
+- ⚡ Quantitative Research
+- 🧠 Data Structures & Algorithms
+- 🌐 Full Stack Development
+- 📈 Business Analytics & Visualization
+- 🏗️ System Design
+
+Currently serving as:
+
+- 🛡️ Founder of **Bitfusion**
+- 📊 Decision Scientist at **Xyphor Advisors**
+- 🌱 Open Source Contributor
+- 🧠 Competitive Programmer
+
+I love building scalable applications, solving analytical problems, contributing to open source, and creating impactful tech communities.
+
+</details>
+
+<details>
+<summary><b>💼 Professional Work Experience</b></summary>
 
 <br>
 
@@ -74,10 +94,8 @@ I enjoy building scalable applications, solving real-world business problems usi
 
 </details>
 
----
-
 <details>
-<summary><h2>🎓 Education</h2></summary>
+<summary><b>🎓 Education</b></summary>
 
 <br>
 
@@ -89,10 +107,8 @@ I enjoy building scalable applications, solving real-world business problems usi
 
 </details>
 
----
-
 <details>
-<summary><h2>🏆 Achievements</h2></summary>
+<summary><b>🏆 Achievements</b></summary>
 
 <br>
 
@@ -109,10 +125,8 @@ I enjoy building scalable applications, solving real-world business problems usi
 
 </details>
 
----
-
 <details>
-<summary><h2>🚀 Featured Projects</h2></summary>
+<summary><b>🚀 Featured Projects</b></summary>
 
 <br>
 
@@ -180,10 +194,8 @@ Python • NumPy • Matplotlib
 
 </details>
 
----
-
 <details>
-<summary><h2>🛠️ Tech Stack</h2></summary>
+<summary><b>🛠️ Tech Stack</b></summary>
 
 <br>
 
@@ -219,10 +231,8 @@ Python • NumPy • Matplotlib
 
 </details>
 
----
-
 <details>
-<summary><h2>📜 Certifications</h2></summary>
+<summary><b>📜 Certifications</b></summary>
 
 <br>
 
@@ -242,10 +252,8 @@ Python • NumPy • Matplotlib
 
 </details>
 
----
-
 <details>
-<summary><h2>🏆 GitHub Trophies & Stats</h2></summary>
+<summary><b>🏆 GitHub Trophies & Stats</b></summary>
 
 <br>
 
@@ -255,7 +263,7 @@ Python • NumPy • Matplotlib
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -265,7 +273,7 @@ Python • NumPy • Matplotlib
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -273,7 +281,7 @@ Python • NumPy • Matplotlib
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -281,7 +289,7 @@ Python • NumPy • Matplotlib
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -293,11 +301,13 @@ Python • NumPy • Matplotlib
 
 </details>
 
----
+<details>
+<summary><b>🌐 Connect With Me</b></summary>
 
-## 🌐 Connect With Me
+<br>
 
 <p align="center">
+
 <a href="https://github.com/anshumansinha3301">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -309,14 +319,9 @@ Python • NumPy • Matplotlib
 <a href="mailto:yourmail@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
 
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true)
-
-</div>
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
