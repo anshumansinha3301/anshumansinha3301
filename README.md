@@ -14,6 +14,8 @@ Decision Scientist | Quant Researcher | Founder | Competitive Programmer
   <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true" />
 </p>
 
+---
+
 <details>
 <summary><b>🚀 About Me</b></summary>
 
@@ -85,6 +87,71 @@ I currently serve as:
 
 </details>
 
+---
+
+<details>
+<summary><b>📚 Research Papers & Publications</b></summary>
+
+<br>
+
+### 📄 Published Research Papers
+
+#### 1️⃣ Integrating Artificial Intelligence and Machine Learning in Business Intelligence and Predictive Decision Support
+
+- Focused on integrating AI & ML techniques into business intelligence ecosystems for predictive analytics and strategic decision-making.
+- Covers intelligent forecasting systems, enterprise analytics pipelines, and data-driven optimization frameworks.
+
+🔗 https://zenodo.org/records/18860854
+
+---
+
+#### 2️⃣ State-Aware Interpretability in Graph Neural Networks for Stem Cell Fate Prediction
+
+- Research centered on explainable AI and Graph Neural Networks (GNNs) for biological prediction systems.
+- Explores state-aware interpretability mechanisms for advanced stem cell fate modeling.
+
+🔗 https://zenodo.org/records/19815721
+
+---
+
+#### 3️⃣ Twin Technology in Supply Chain
+
+- Research on Digital Twin technologies applied in supply chain ecosystems.
+- Includes predictive logistics, operational optimization, real-time monitoring, and intelligent supply chain automation.
+
+🔗 https://www.academia.edu/144863316/Twin_Technology_in_Supply_Chain
+
+---
+
+### 🌐 Research Profiles & Academic Accounts
+
+- 🎓 Academia.edu  
+  🔗 https://amity.academia.edu/AnshumanSinha
+
+- 📊 ResearchGate  
+  🔗 https://www.researchgate.net/profile/Anshuman-Sinha-11
+
+- 🆔 ORCID  
+  🔗 https://orcid.org/0009-0009-5872-5737
+
+</details>
+
+---
+
+<details>
+<summary><b>🏅 Olympiads & International Competitions</b></summary>
+
+<br>
+
+| Competition | Year | Qualification Status | Level |
+|---|---|---|---|
+| International Computer Science Competition (ICSC) | 2025 Edition | Pre Final Round Qualifier | International Level |
+| International Youth Math Champion | 2025 Edition | Regional Qualifier Round | International Competition |
+
+</details>
+
+---
+
 <details>
 <summary><b>💼 Professional Work Experience</b></summary>
 
@@ -144,6 +211,8 @@ I currently serve as:
 
 </details>
 
+---
+
 <details>
 <summary><b>🎓 Education</b></summary>
 
@@ -151,12 +220,15 @@ I currently serve as:
 
 | Qualification | Institution | Year | Specialization / Focus | Achievement |
 |---|---|---|---|---|
+| Master of Computer Applications (MCA) | Indian Institute of Technology (IIT Patna) | 2026–2028 | Computer Applications, AI & Advanced Computing | Postgraduate Program |
 | MicroMasters Degree in Supply Chain Management | Massachusetts Institute of Technology (MIT) | 2026–2027 | Supply Chain Management & Analytics | Advanced Professional Program |
 | Bachelor of Computer Applications | Amity University Patna | 2023–2026 | Computer Applications & Software Engineering | Top 5% of Batch |
 | Class 12 (CBSE) | DAV Public School | 2022–2023 | Science, Information Practices, Fine Arts | Rank 6/55 |
 | Class 10 (CBSE) | DAV Public School | 2020–2021 | Mathematics & General Science | Top 5% |
 
 </details>
+
+---
 
 <details>
 <summary><b>🏆 Achievements</b></summary>
@@ -178,6 +250,8 @@ I currently serve as:
 - 🧠 Specialized in DSA, Quantitative Analytics, and System Design
 
 </details>
+
+---
 
 <details>
 <summary><b>🚀 Featured Projects</b></summary>
@@ -242,6 +316,8 @@ I currently serve as:
 
 </details>
 
+---
+
 <details>
 <summary><b>🛠️ Tech Stack</b></summary>
 
@@ -279,6 +355,8 @@ I currently serve as:
 
 </details>
 
+---
+
 <details>
 <summary><b>📜 Certifications</b></summary>
 
@@ -301,6 +379,8 @@ I currently serve as:
 🔗 https://drive.google.com/file/d/1eAw3tDJtNfuSEX_2QUyt6yPV4_sFZksY/view
 
 </details>
+
+---
 
 <details>
 <summary><b>🏆 GitHub Trophies & Stats</b></summary>
@@ -350,6 +430,8 @@ I currently serve as:
 </div>
 
 </details>
+
+---
 
 <details>
 <summary><b>🌐 Connect With Me</b></summary>
