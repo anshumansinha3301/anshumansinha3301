@@ -17,15 +17,15 @@ Decision Scientist | Quant Researcher | Founder | Competitive Programmer
 ---
 
 <details>
-<summary><b>🚀 About Me</b></summary>
+<summary><b>🚀 About Me & Technical Ecosystem</b></summary>
 
 <br>
 
-I'm **Anshuman Sinha**, a **Decision Scientist**, **Quant Researcher**, **Founder**, **Competitive Programmer**, and **Open Source Developer** focused on building high-performance systems, intelligent analytics platforms, scalable applications, and data-driven business solutions.
+I'm **Anshuman Sinha**, a **Decision Scientist**, **Quant Researcher**, **Founder**, **Competitive Programmer**, and **Open Source Developer** passionate about building intelligent systems, scalable software architectures, AI-powered analytics platforms, enterprise applications, and research-driven computational ecosystems capable of solving real-world technological and business problems.
 
-I am currently pursuing a **Bachelor of Computer Applications (BCA)** at **Amity University Patna**, where I consistently ranked among the **Top 5% of the batch** with strong academic performance and research contributions.
+I am currently pursuing a **Bachelor of Computer Applications (BCA)** at **Amity University Patna**, where I consistently ranked among the **Top 5% of the batch** with strong academic performance, research publications, competitive programming achievements, and open-source contributions. My work primarily focuses on combining **Artificial Intelligence, Quantitative Research, Machine Learning, Software Engineering, Business Intelligence, Distributed Systems, and Predictive Analytics** into scalable and production-grade engineering ecosystems.
 
-My expertise spans across:
+Over the years, I have developed expertise across multiple technical and analytical domains involving:
 
 - 📊 Data Science & Machine Learning
 - 📈 Quantitative Research & Financial Analytics
@@ -36,8 +36,11 @@ My expertise spans across:
 - 📉 Statistical Modeling & Predictive Analytics
 - 🏦 Market Research & Business Intelligence
 - 🤖 AI-Powered Automation Systems
-- 🔬 Artificial Intelligence Research
 - 🧬 Computational Genetics & Neuro-Symbolic AI
+- 🖥️ Backend Infrastructure & Enterprise Software Engineering
+- 🔬 Artificial Intelligence Research & Intelligent Systems
+
+My engineering philosophy revolves around designing high-performance systems that integrate intelligent automation, enterprise analytics, predictive modeling, workflow orchestration, and scalable backend infrastructures into efficient production-grade solutions. I actively work on AI-driven research systems, financial analytics platforms, enterprise software architectures, workflow automation ecosystems, and modern data-driven applications.
 
 I currently serve as:
 
@@ -46,6 +49,12 @@ I currently serve as:
 - 💼 **Trainee Engineer — Tata Consultancy Services (TCS)**
 - 🌐 **Open Source Contributor — MLH, Hacktoberfest, GSSoC**
 - 🧠 **Competitive Programmer — LeetCode, GeeksforGeeks, HackerRank**
+
+### 🧠 Research Interests & Engineering Domains
+
+My major research and engineering interests include Artificial General Intelligence (AGI), Neuro-Symbolic Artificial Intelligence, Explainable AI, Large Language Models, Autonomous AI Agents, Quantitative Finance, Computational Genetics, Graph Neural Networks, Distributed Systems, Enterprise Analytics, Workflow Automation, Predictive Decision Intelligence, AI Infrastructure, and Scalable Backend Engineering.
+
+I continuously work on enterprise-grade analytical systems, intelligent automation frameworks, scalable API architectures, machine learning pipelines, quantitative analytics platforms, and high-performance software infrastructures capable of operating efficiently across large-scale environments.
 
 ### 🏆 Competitive Programming & Technical Achievements
 
@@ -58,13 +67,40 @@ I currently serve as:
 - 🚀 Secured **7 Off-Campus Job Offers**
 - 🌟 6000+ GitHub Contributions across research and development repositories
 
-### 🌐 Open Source & Development Contributions
+### 📊 Competitive Programming Profiles
+
+| Platform | Achievement | Profile |
+|---|---|---|
+| LeetCode | Top 4.2% Globally | https://leetcode.com/u/anshumansinha/ |
+| HackerRank | 5★ Problem Solving & SQL | https://www.hackerrank.com/profile/anshumansinhadto |
+| GeeksforGeeks | Former Institute Rank 1 | https://auth.geeksforgeeks.org/user/ |
+| CodeStudio | Top 1% SQL | https://www.codingninjas.com/studio/profile/ |
+
+### 🌐 Open Source, Leadership & Community Ecosystem
+
+Beyond engineering and research, I actively contribute toward open-source development, collaborative innovation ecosystems, technical leadership initiatives, and community-driven technology programs. I strongly believe in building scalable developer ecosystems that promote learning, collaboration, research, and innovation.
 
 - 🌱 Contributor in **Hacktoberfest 2024**
 - 🌟 Contributor in **GirlScript Summer of Code**
 - 🤖 Open Source Developer under **Major League Hacking**
 - 🌐 Contributor to the **DigitalOcean Community**
+- 🎯 Techpreneur Club Coordinator
+- 🎓 Internshala Campus Ambassador 2024
 - ⚙️ Developed analytics systems, fintech platforms, AI dashboards, and enterprise web applications
+
+### 📰 Technical Writing, Research & Publications
+
+Alongside software engineering and AI system development, I actively publish technical research papers and analytical articles focused on artificial intelligence systems, machine learning architectures, workflow automation, cognitive computing, enterprise intelligence systems, and scalable software ecosystems.
+
+My published works include:
+
+- Teaching Machines to Think: The Rise of Neuro-Symbolic AI
+- From Chatbots to Colleagues: The Era of Autonomous AI Agents
+- Emergent Representations and Token Dynamics in Large Language Models
+- Artificial General Intelligence: The Next Frontier in Cognitive Computing
+- Leveraging Apache Airflow for Scalable Machine Learning Pipeline Orchestration
+- Integrating Data Science with Computational Genetics Using Python
+- n8n: Revolutionizing Workflow Automation through Open-Source Intelligence
 
 ### 📜 Certifications & Technical Credentials
 
@@ -75,20 +111,17 @@ I currently serve as:
 - 🧠 EC Council — Cyber Ethical Hacker
 - 💻 HackerRank Certified Software Engineer
 
-### 💻 Technical Domains
+### 📈 Engineering Metrics & GitHub Ecosystem
 
-- Python Development
-- Java Engineering
-- Financial Computing
-- Machine Learning Pipelines
-- Data Visualization
-- Backend Engineering
-- Database Management
-- REST APIs
-- Automation Systems
-- Full Stack Development
-- Quantitative Analytics
-- Enterprise Software Engineering
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumansinha3301&theme=radical"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumansinha3301&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
 
 </details>
 
