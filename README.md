@@ -7,7 +7,7 @@ Data Scientist | Quant Researcher | ICSC, IYMC 2025 Nationals Qualifier | Founde
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2200&pause=100&color=B347FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Quant+Researcher;Founder;Competitive+Programmer;Machine+Learning+Engineer;Open+Source+Developer;System+Design+Engineer;Frontend+Developer;Financial+Analytics;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2200&pause=100&color=B347FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Quant+Researcher;Competitive+Programmer;Open+Source+Developer;Financial+Analytics" />
 </p>
 
 <p align="center">
