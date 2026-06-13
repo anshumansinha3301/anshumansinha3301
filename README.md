@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
 
 <h3 align="center">
-Decision Scientist | Quant Researcher | Founder | Competitive Programmer
+Data Scientist | Quant Researcher | ICSC, IYMC 2025 Nationals Qualifier | Founder of Xyphor Advisors, Bitfusion Dynamics Research | Bachelor of Computer Applications'26 @Amity University Patna 
 </h3>
 
 <p align="center">
