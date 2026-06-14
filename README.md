@@ -597,23 +597,53 @@ Credential ID: `EdnTnxgpArwuHbFbG`
 
 <p align="center">
 
-<a href="https://github.com/anshumansinha3301">
+<a href="https://github.com/anshumansinha3301" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://leetcode.com/u/anshumansinha/">
+<a href="https://leetcode.com/u/anshumansinha/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/anshumansinhadto">
+<a href="https://www.hackerrank.com/profile/anshumansinhadto" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="48"/>
 </a>
 
+<a href="https://scholar.google.com/citations?user=9Z5bUD2PIxQC" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="48"/>
+</a>
+
+<a href="https://zenodo.org/records/20660197" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zenodo.svg" width="48"/>
+</a>
+
+<a href="https://www.researchgate.net/profile/Anshuman-Sinha-11" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg" width="48"/>
+</a>
+
+<a href="https://sites.google.com/view/anshumansinha/home" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlesites.svg" width="48"/>
+</a>
+
+<a href="https://iitp.academia.edu/AnshumanSinha" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/academia.svg" width="48"/>
+</a>
+
+<a href="https://orcid.org/0009-0009-5872-5737" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" width="48"/>
+</a>
+
+<a href="https://dev.to/anshumansinha3301" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg" width="48"/>
+</a>
+
 </p>
+
+
 
 </details>
 
