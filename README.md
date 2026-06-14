@@ -535,9 +535,6 @@ Credential ID: `EdnTnxgpArwuHbFbG`
 <summary><b>🏆 GitHub Trophies & Stats</b></summary>
 
 <br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true" />
-</p>
 
 <div align="center">
 
@@ -580,6 +577,10 @@ Credential ID: `EdnTnxgpArwuHbFbG`
 </a>
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true" />
+</p>
 
 </details>
 
