@@ -3,16 +3,8 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
 
 <h3 align="center">
-Data Scientist | Quant Researcher | ICSC, IYMC 2025 Nationals Qualifier | Founder of Xyphor Advisors, Bitfusion Dynamics Research | Bachelor of Computer Applications'26 @Amity University Patna 
+Data Scientist | Tata Consultancy Services | Amity University
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2200&pause=100&color=B347FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Quant+Researcher;Competitive+Programmer;Open+Source+Developer;Financial+Analytics" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true" />
-</p>
 
 ---
 
@@ -543,6 +535,9 @@ Credential ID: `EdnTnxgpArwuHbFbG`
 <summary><b>🏆 GitHub Trophies & Stats</b></summary>
 
 <br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshumansinha3301&abbreviated=true" />
+</p>
 
 <div align="center">
 
