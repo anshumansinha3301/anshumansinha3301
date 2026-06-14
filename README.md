@@ -625,10 +625,6 @@ Credential ID: `EdnTnxgpArwuHbFbG`
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg" width="48"/>
 </a>
 
-<a href="https://sites.google.com/view/anshumansinha/home" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlesites.svg" width="48"/>
-</a>
-
 <a href="https://iitp.academia.edu/AnshumanSinha" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/academia.svg" width="48"/>
 </a>
