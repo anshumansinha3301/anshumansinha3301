@@ -9,7 +9,7 @@ Data Scientist | Tata Consultancy Services | Amity University
 ---
 
 <details>
-<summary><b>🚀 About Me & Technical Ecosystem</b></summary>
+<summary><b>🚀 About Me, Technical Ecosystem and Basic Portfolio</b></summary>
 
 <br>
 
@@ -120,7 +120,7 @@ My published works include:
 ---
 
 <details>
-<summary><b>📚 Research Papers & Publications</b></summary>
+<summary><b>📚 Research Papers & Publications (Including Papers Published in CERN, OpenAIRE and European Union)</b></summary>
 
 <br>
 
@@ -331,7 +331,7 @@ My published works include:
 ---
 
 <details>
-<summary><b>🏅 Olympiads & International Competitions</b></summary>
+<summary><b>🏅 Olympiads, International Competitions and Honors and Awards</b></summary>
 
 <br>
 
@@ -410,7 +410,7 @@ My published works include:
 ---
 
 <details>
-<summary><b>🎓 Education</b></summary>
+<summary><b>🎓 Education Qualifications</b></summary>
 
 <br>
 
@@ -427,7 +427,7 @@ My published works include:
 ---
 
 <details>
-<summary><b>🏆 Achievements</b></summary>
+<summary><b>🏆 Achievements in Competitive Programming and Open Source Contributions</b></summary>
 
 <br>
 
@@ -526,7 +526,7 @@ My published works include:
 ---
 
 <details>
-<summary><b>🛠️ Tech Stack</b></summary>
+<summary><b>🛠️ Tech Stacks</b></summary>
 
 <br>
 
