@@ -9,7 +9,7 @@ Data Scientist | Tata Consultancy Services | Amity University
 ---
 
 <details>
-<summary><b>🚀 About Me, Technical Ecosystem and Basic Portfolio</b></summary>
+<summary><b>🚀 About Me, Technical Ecosystem and Portfolio</b></summary>
 
 <br>
 
@@ -331,7 +331,7 @@ My published works include:
 ---
 
 <details>
-<summary><b>🏅 Olympiads, International Competitions and Honors and Awards</b></summary>
+<summary><b>🏅 Olympiads, International Competitions, Honors and Awards (ICSC, IYMC, Github Global 2024 and 2025)</b></summary>
 
 <br>
 
@@ -345,7 +345,7 @@ My published works include:
 ---
 
 <details>
-<summary><b>💼 Professional Work Experience</b></summary>
+<summary><b>💼 Professional Work Experience (Xyphor Advisors, Bitfusion Dynamics Research, Safetitude, Hacktoberfest, MLH)</b></summary>
 
 <br>
 
@@ -410,14 +410,14 @@ My published works include:
 ---
 
 <details>
-<summary><b>🎓 Education Qualifications</b></summary>
+<summary><b>🎓 Education Qualifications (IIT Patna and Amity University Patna)</b></summary>
 
 <br>
 
 | Qualification | Institution | Year | Specialization / Focus | Achievement |
 |---|---|---|---|---|
 | Master of Computer Applications (MCA) | Indian Institute of Technology (IIT Patna) | 2026–2028 | Computer Applications, AI & Advanced Computing | Includes research work on Stem Cell Fate Prediction using Graph Neural Networks |
-| MicroMasters Program in Supply Chain Management | Massachusetts Institute of Technology (MIT) | 2026–2027 | Logistics, Materials & Supply Chain Management | Built AI-powered Supply Chain Control Tower using Python, Streamlit, NumPy, Pandas & Matplotlib |
+| Certification Program in Supply Chain Management | Massachusetts Institute of Technology (MIT) | 2026–2027 | Logistics, Materials & Supply Chain Management | Built AI-powered Supply Chain Control Tower using Python, Streamlit, NumPy, Pandas & Matplotlib |
 | Bachelor of Computer Applications (BCA) | Amity University Patna | 2023–2026 | Computer Science | First Division • Top 5% of Batch • Published Research Paper at ICBIDSLADT 2025 • Former GFG Rank 1 • Techpreneur Club Coordinator • Top 4% LeetCode • ICSC 2025 National Qualifier • Open Source Contributor (Hacktoberfest, MLH, DigitalOcean) • Internshala Campus Ambassador 2024 • Secured 7 Off-Campus Offers |
 | High School Diploma | DAV Public School Sasaram | 2022–2023 | Medical Science | First Division • Batch Rank 6/55 • NCC Junior Division Cadet • Olympiad Topper • English Scholar Championship Topper • Head of IT Club |
 | Secondary Education (CBSE) | DAV Public School Sasaram | 2020–2021 | Mathematics & General Science | Top 5% of Batch |
@@ -452,7 +452,7 @@ My published works include:
 ---
 
 <details>
-<summary><b>🚀 Featured Projects</b></summary>
+<summary><b>🚀 Featured Projects (Machine Learning, Web Development, Streamlit)</b></summary>
 
 <br>
 
@@ -526,7 +526,7 @@ My published works include:
 ---
 
 <details>
-<summary><b>🛠️ Tech Stacks</b></summary>
+<summary><b>🛠️ Tech Stacks (Languages, Frontend, Backend, Databases, Data Science, Tools and Platform)</b></summary>
 
 <br>
 
@@ -565,7 +565,7 @@ My published works include:
 ---
 
 <details>
-<summary><b>📜 Certifications</b></summary>
+<summary><b>📜 Certifications (Oracle, NPTEL IIT Kharagpur, Reliance Foundation, Hackerrank, JP Morgan)</b></summary>
 
 <br>
 
@@ -644,7 +644,7 @@ Credential ID: `EdnTnxgpArwuHbFbG`
 ---
 
 <details>
-<summary><b>🏆 GitHub Trophies & Stats</b></summary>
+<summary><b>🏆 GitHub Trophies, Summary & Stats (Hacktoberfest Badges)</b></summary>
 
 <br>
 
@@ -699,7 +699,7 @@ Credential ID: `EdnTnxgpArwuHbFbG`
 ---
 
 <details>
-<summary><b>🌐 Connect With Me</b></summary>
+<summary><b>🌐 Connect With Me (Social Media Links and Professional Profiles)</b></summary>
 
 <br>
 
