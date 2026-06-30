@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
 
 <h3 align="center">
-Data Scientist | Tata Consultancy Services | Amity University
+Data Scientist | System Design | Amity University
 </h3>
 
 ---
